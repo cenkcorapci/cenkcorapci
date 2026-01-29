@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m Cenk
 
-Data Engineer/Machine Learning Engineer, currently working at **Sytac**.
+Data Engineer/Machine Learning Engineer, currently working at **Sytac** and **KLM**.
+Ex: [Adyen](https://github.com/Adyen), [Adevinta](https://github.com/adevinta), [Cimri](https://github.com/cimri), [OBSS](https://github.com/obss)
 
 **Things I work on:**
 - Data pipelines on scale
