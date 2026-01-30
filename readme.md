@@ -1,12 +1,12 @@
-### 👋 Hi, I’m Cenk
+### 👋 Hi, I’m Cenk,
 
-Data Engineer/Machine Learning Engineer, currently working at **Sytac** and **KLM**.
-Ex: [Adyen](https://github.com/Adyen), [Adevinta](https://github.com/adevinta), [Cimri](https://github.com/cimri), [OBSS](https://github.com/obss)
+Data Engineer/Machine Learning Engineer, currently working at [Sytac](https://sytac.io/) and [AirfranceKLM](https://www.airfranceklm.com/en).
+Previously: [Adyen](https://github.com/Adyen), [Adevinta](https://github.com/adevinta), [Cimri](https://github.com/cimri), [OBSS](https://github.com/obss)
 
 **Things I work on:**
 - Data pipelines on scale
 - Stream processing systems
-- Doing ML research for products people use
+- Doing ML research as a freelancer @Cimri
 - Backend development
 - And hobby projects in my Github
 
