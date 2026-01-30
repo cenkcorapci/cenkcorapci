@@ -10,7 +10,7 @@ Ex: [Adyen](https://github.com/Adyen), [Adevinta](https://github.com/adevinta), 
 - Backend development
 - And hobby projects in my Github
 
-Currently I'm learning C++ and Cuda programming!
+Currently I'm learning C++!
 
 📍 Haarlem, NL  
 🔗 [LinkedIn](https://www.linkedin.com/in/cenkcorapci)
