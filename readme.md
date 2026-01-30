@@ -6,7 +6,7 @@ Previously: [Adyen](https://github.com/Adyen), [Adevinta](https://github.com/ade
 **Things I work on:**
 - Data pipelines on scale
 - Stream processing systems
-- Doing ML research as a freelancer [Cimri](https://github.com/cimri)
+- Doing ML research as a freelancer at [Cimri](https://github.com/cimri)
 - Backend development
 - And hobby projects in my Github
 
