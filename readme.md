@@ -12,6 +12,6 @@ Previously: [Adyen](https://github.com/Adyen), [Adevinta](https://github.com/ade
 
 Currently I'm learning C++!
 
-📍 Haarlem, NL  
+📍 Amsterdam, NL  
 🔗 [LinkedIn](https://www.linkedin.com/in/cenkcorapci)
 🔗 [My Blog](https://cenkcorapci.com)
